@@ -13,13 +13,13 @@ The **Quiz App** is a web-based application that allows users to take quizzes on
 Here are some screenshots of the application in action:
 
 ### Homepage
-![Homepage](homepage.jpg)
+![Homepage](Homepage.jpg)
 
 ### Quiz Interface
-![Quiz Interface](quiz-interface.jpg)
+![Quiz Interface](Quiz Interface.jpg)
 
 ### Results Page
-![Results Page](results-page.jpg)
+![Results Page](Results Page.jpg)
 
 ## Video Walkthrough
 Watch a short video demonstrating the app:
