@@ -23,3 +23,5 @@ Here are some screenshots of the application in action:
 
 ## Video Walkthrough
 Watch a short video demonstrating the app:
+
+[![Quiz App Walkthrough](media/video.mp4)](https://drive.google.com/file/d/1UGgh9F-ul7rxaU6qZOTya63hO6oUucGW/view?usp=sharing)
