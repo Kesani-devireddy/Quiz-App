@@ -16,10 +16,10 @@ Here are some screenshots of the application in action:
 ![Homepage](Homepage.jpg)
 
 ### Quiz Interface
-![Quiz Interface](Quiz Interface.jpg)
+![Quiz Interface](QuizInterface.jpg)
 
 ### Results Page
-![Results Page](Results Page.jpg)
+![Results Page](ResultsPage.jpg)
 
 ## Video Walkthrough
 Watch a short video demonstrating the app:
