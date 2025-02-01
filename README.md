@@ -12,16 +12,22 @@ The **Quiz App** is a web-based application that allows users to take quizzes on
 - ## Screenshots
 Here are some screenshots of the application in action:
 
-### Homepage
+### Homepage:
 ![Homepage](screenshots/Homepage.jpg)
 
-### Quiz Interface
+### Quiz Interface:
 ![Quiz Interface](screenshots/QuizInterface.jpg)
 
-### Results Page
+### Results Page:
 ![Results Page](screenshots/ResultsPage.jpg)
 
-## Video Walkthrough
+## Video Walkthrough:
 Watch a short video demonstrating the app:
 
 [![Quiz App Walkthrough](media/video.mp4)](https://drive.google.com/file/d/1UGgh9F-ul7rxaU6qZOTya63hO6oUucGW/view?usp=sharing)
+
+## GitHub Repository Link:
+(👉  https://github.com/Kesani-devireddy/Quiz-App)
+
+## README.md File Link:
+(👉  https://github.com/Kesani-devireddy/Quiz-App/blob/main/README.md)
